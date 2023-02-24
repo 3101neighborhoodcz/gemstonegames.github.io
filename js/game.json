@@ -5,6 +5,12 @@
 "Author": "By Inlogic Games",
 "PageTitle": "Aqua Games - 8 Ball Pool"
     }
+        "mc": {
+"Iframe": "/games/mc",
+"Title": "Precision Client",
+"Author": "By etcherfx",
+"PageTitle": "Aqua Games - Precision Client"
+    }
     "1": {
 "Iframe": "/games/1",
 "Title": "1",
