@@ -38,7 +38,7 @@
    #settingToggle {
     width: 50px;
     position: relative; 
-    top: -10px;
+    top: -15px;
     border-radius: 50px;
    }
    #settingToggle:hover {
@@ -110,11 +110,13 @@ canvas {
 }
 .aqua {
   font-family: Poppins;
+ color: rgba(0,0,0,0);
   -webkit-text-stroke: 0.1px #00BBED;
   font-size: 70px;
   text-align: center;
 }
 .aquasentence {
+  color: rgba(0,0,0,0);
   font-family: Poppins;
   -webkit-text-stroke: 0.01px #00BBED;
   font-size: 20px;
@@ -176,6 +178,7 @@ ul {
   padding: 0;
   overflow: hidden;
   top: 0px;
+ height: 50px;
   width: 100%
 }
 
@@ -186,6 +189,7 @@ li {
 
 li a {
   z-index: 3;
+ font-size: 16px;
   font-family: Poppins;
   display: block;
   color: #00BBED;
