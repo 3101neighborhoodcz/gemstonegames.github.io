@@ -51,8 +51,10 @@ ls.setItem("titlecloak", urle)
 }
 function toggleSettings() {
 if (doc.getElementById("settings").style.display == "none"){
+document.getElementById("settingToggle").src = "/img/close.png"
 doc.getElementById("settings").style.display = ""
 } else if (doc.getElementById("settings").style.display == ""){
+document.getElementById("settingToggle").src = "/img/setting.png"
 doc.getElementById("settings").style.display = "none"
 }
 }                      
