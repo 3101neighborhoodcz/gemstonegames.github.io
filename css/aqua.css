@@ -42,8 +42,8 @@ color: rgba(0,0,0,0);
    #settingToggle {
     width: 50px;
     float: left;
-    position: absolute;
-    top: 33.5vw;
+    position: fixed;
+    bottom: 0.7vw;
     left: 0.7vw;
     border-radius: 50px;
    }
@@ -202,7 +202,7 @@ li a {
   display: block;
   color: #000000;
   text-align: center;
-  padding: 10px 20px;
+  padding: 5px 20px;
   text-decoration: none;
 }
 
