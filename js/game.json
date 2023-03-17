@@ -11,6 +11,61 @@
 "Author": "By etcherfx",
 "PageTitle": "Aqua Games - Precision Client"
     },
+           "jenga": {
+"Iframe": "/games/Jenga",
+"Title": "Jenga",
+"Author": "By chandlerprall",
+"PageTitle": "Aqua Games - Jenga"
+    },
+               "quiz": {
+"Iframe": "/games/theimpossiblequiz",
+"Title": "The Impossible Quiz",
+"Author": "By Splapp-Me-Do",
+"PageTitle": "Aqua Games - The Impossible Quiz"
+    },
+                   "quiz2": {
+"Iframe": "/games/theimpossiblequiz2",
+"Title": "The Impossible Quiz 2",
+"Author": "By Splapp-Me-Do",
+"PageTitle": "Aqua Games - The Impossible Quiz 2"
+    },
+                       "backrooms": {
+"Iframe": "/games/backrooms",
+"Title": "Backrooms",
+"Author": "By Esyverse",
+"PageTitle": "Aqua Games - Backrooms"
+    },
+                           "paperio2": {
+"Iframe": "/games/paperio2",
+"Title": "Paper.io 2",
+"Author": "By Voodoo",
+"PageTitle": "Aqua Games - Paper.io 2"
+    },
+                       "warsim": {
+"Iframe": "/games/warsim",
+"Title": "Ages of Conflict",
+"Author": "By JoySpark Games",
+"PageTitle": "Aqua Games - Ages of Conflict"
+    },
+               "run1": {
+"Iframe": "/games/run1",
+"Title": "Run 1",
+"Author": "By Joseph Cloutier",
+"PageTitle": "Aqua Games - Jenga"
+    },
+               "run2": {
+"Iframe": "/games/run2",
+"Title": "Run 2",
+"Author": "By Joseph Cloutier",
+"PageTitle": "Aqua Games - Run 2"
+    },
+               "run3": {
+"Iframe": "/games/Jenga",
+"Title": "Run 3",
+"Author": "By Joseph Cloutier",
+"PageTitle": "Aqua Games - Run 3"
+    },
+    
     "1": {
 "Iframe": "/games/1",
 "Title": "1",
