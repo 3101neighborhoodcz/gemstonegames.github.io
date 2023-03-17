@@ -12,10 +12,16 @@
 "PageTitle": "Aqua Games - Tunnel Rush"
     },
         "mc": {
-"Iframe": "/games/mc",
+"Iframe": "/PrecisionClient-Static/",
 "Title": "Precision Client",
 "Author": "By etcherfx",
 "PageTitle": "Aqua Games - Precision Client"
+    },
+            "burritobison": {
+"Iframe": "/games/burritobison",
+"Title": "Burrito Bison",
+"Author": "By Juicy Beast",
+"PageTitle": "Aqua Games - Burrito Bison"
     },
            "jenga": {
 "Iframe": "/games/Jenga",
