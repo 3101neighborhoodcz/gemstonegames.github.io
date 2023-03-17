@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded',async()=>{
                 document.getElementsByTagName('link')[1].href = "https://aquagxmes.github.io/img/aqua.ico",
                document.title = document.getElementById('OrgTitleName').innerHTML
         }
+ })
  function refreshGame() {
   document.getElementById('aquagame').src = dat.Iframe
 }
- })
