@@ -37,7 +37,11 @@
 	opacity: 1;
 	transition: visibility 0s, opacity .3s linear
 }
+.scroll {
+	animation: scroll 5s linear infinite;
+}
 .gameborde {
+	 overflow: hidden;
 	opacity: 0;
 	background-color:rgba(0,0,0,0.5);
 	width: 10.85vw;
@@ -130,3 +134,13 @@
     box-shadow: 0 0 30px #00BEED;
   }
 }
+
+    @keyframes scroll {
+ 0%   { 
+ transform: translateX(40%); 		
+ }
+ 100% { 
+ transform: translateX(-140%); 
+ }
+}
+
