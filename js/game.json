@@ -5,6 +5,12 @@
 "Author": "By Inlogic Games",
 "PageTitle": "Aqua Games - 8 Ball Pool"
     },
+        "tunnelrush": {
+"Iframe": "/games/tunnelrush",
+"Title": "Tunnel Rush",
+"Author": "By Deer Cat",
+"PageTitle": "Aqua Games - Tunnel Rush"
+    },
         "mc": {
 "Iframe": "/games/mc",
 "Title": "Precision Client",
